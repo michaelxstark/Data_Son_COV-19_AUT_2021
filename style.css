@@ -30,6 +30,12 @@ body {
   text-align: center;
 }
 
+.head3 {
+  font-style: normal;
+  font-weight: lighter;
+  text-align: left;
+}
+
 video {
   width: 100%;
   margin-bottom: 20px;
